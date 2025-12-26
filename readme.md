@@ -36,9 +36,6 @@ Mercado Libro es una aplicación de venta de libros físicos en línea que ofrec
 
 Para que la función de ubicación funcione correctamente en esta aplicación, necesitas agregar una API key de Google Maps en el archivo `src/constants/maps/index.js`. Ahí debes buscar la variable `GOOGLE_API_KEY` y completarla con la API key.
 
-## Contacto
-
-Si tienes alguna pregunta o comentario, no dudes en contactarnos en [contacto@mercadolibro.com](mailto:jazmin.programacion@gmail.com).
 
 ¡Gracias por elegir Mercado Libro!
 
